@@ -21,8 +21,6 @@ export 'package:getx_initial/routes/app_routes.dart';
 
 export 'package:getx_initial/data/models/selectionPopupModel/selection_popup_model.dart';
 
-export 'package:getx_initial/widgets/common_image_view.dart';
-
 export 'package:getx_initial/core/errors/exceptions.dart';
 export 'package:getx_initial/core/network/network_info.dart';
 export 'package:getx_initial/core/utils/logger.dart';

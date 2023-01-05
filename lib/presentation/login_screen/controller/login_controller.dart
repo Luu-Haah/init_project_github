@@ -1,6 +1,7 @@
 import '/core/app_export.dart';
 
-class HomeController extends GetxController {
+class LoginController extends GetxController {
+
 
   @override
   void onReady() {
